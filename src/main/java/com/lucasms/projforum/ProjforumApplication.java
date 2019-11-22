@@ -1,0 +1,13 @@
+package com.lucasms.projforum;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProjforumApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProjforumApplication.class, args);
+	}
+
+}
